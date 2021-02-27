@@ -417,7 +417,7 @@ section .title::after {
 .content__project {
   display: none;
   padding: 1.5rem;
-  background-color: #111;
+  background-color: black;
 }
 .content__project h2 {
   height: 40px;
