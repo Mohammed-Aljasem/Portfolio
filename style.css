@@ -770,7 +770,7 @@ footer span a:hover {
   }
   .about .about-content .left {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     margin: 0 auto 60px;
   }
   .about .about-content .right {
